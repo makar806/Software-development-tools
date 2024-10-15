@@ -6,4 +6,5 @@
 
 ## Файловая структура:
 Software-development-tools ├── rectangle.py ├── triangle.py └── docs └── README.md
-!https://funik.ru/wp-content/uploads/2018/10/17478da42271207e1d86.jpg
+
+![1](https://github.com/user-attachments/assets/a9562761-2333-4b7a-93a3-1be8e03ed064)
